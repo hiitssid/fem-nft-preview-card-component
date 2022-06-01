@@ -92,11 +92,6 @@ main {
 
 - [lauraamujica NFT-Preview-card-component](https://github.com/lauraamujica/NFT-Preview-card-component-) - lauraamujica has inspired me with this clean, easy to understand code. I took reference this repo when I got stuck and would recommend visting.
 
-**Other resources**
-
-- https://www.youtube.com/watch?v=l6sxh57ifSQ
-- https://www.youtube.com/watch?v=9bGbykdR4T8
-
 ## Acknowledgments
 
 https://github.com/lauraamujica

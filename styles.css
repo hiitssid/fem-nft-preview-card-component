@@ -50,7 +50,7 @@ main {
   height: 300px;
   background-color: hsl(178, 100%, 50%, 50%);
   border-radius: 15px;
-  transition: all 0.5s ease;
+  transition: all 1s ease;
   display: none;
 }
 .card-image .overlay img {
@@ -62,6 +62,7 @@ main {
 
 .card-image:hover .overlay {
   display: block;
+  cursor: pointer;
 }
 
 h1 {
