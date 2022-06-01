@@ -23,11 +23,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### What I learned
 
-Majority of the focus was using Flex property. I learned to include flex as per necessary like distributing elements across the card-component.
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+- Majority of the focus was using Flex property. I learned to include flex as per necessary like distributing elements across the card-component.
 
 ```html
 <main>
@@ -90,16 +86,16 @@ main {
 
 ### Continued development
 
-The challenging part of this exercise for me was to align the overlay and view icon on the primary image that appears only over hovering the image. Though I struggule over this particular challenge and completed it, I would love to champion this case and continue sharpen my skill.
+- The challenging part of this exercise for me was to align the overlay and view icon on the primary image that appears only over hovering the image. Though I struggule over this particular challenge and completed it, I would love to champion this case and continue sharpen my skill.
 
 ### Useful resources
 
 - [lauraamujica NFT-Preview-card-component](https://github.com/lauraamujica/NFT-Preview-card-component-) - lauraamujica has inspired me with this clean, easy to understand code. I took reference this repo when I got stuck and would recommend visting.
 
 **Other resources**
-https://www.youtube.com/watch?v=l6sxh57ifSQ
 
-https://www.youtube.com/watch?v=9bGbykdR4T8
+- https://www.youtube.com/watch?v=l6sxh57ifSQ
+- https://www.youtube.com/watch?v=9bGbykdR4T8
 
 ## Acknowledgments
 
